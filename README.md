@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bestine&label=Profile%20views&color=0e75b6&style=flat" alt="bestine" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bestine" alt="bestine" /></a> </p>
+<img src="pic_trulli.jpg" alt="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200205193607/How-Machine-Learning-and-Artificial-Intelligence-Will-Impact-Global-Industries-in-2020.png">
 
 - 🔭 I’m currently working on [Grocery Web Application](https://github.com/Bestine/grocery-webapp)
 
