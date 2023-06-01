@@ -1,10 +1,10 @@
+<img src="Machine-Learning-AI-Concept.gif" alt="Barner">
 <h1 align="center">Hi 👋, I'm Bestine Okinda</h1>
 <h3 align="center">A passionate Data Scientist(Python&R)|Java Developer from Mombasa, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bestine&label=Profile%20views&color=0e75b6&style=flat" alt="bestine" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bestine" alt="bestine" /></a> </p>
-<img src="pic_trulli.jpg" alt="https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif">
 
 - 🔭 I’m currently working on [Grocery Web Application](https://github.com/Bestine/grocery-webapp)
 
