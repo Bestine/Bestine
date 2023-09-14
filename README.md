@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Grocery Web Application](https://github.com/Bestine/grocery-webapp)
 
-- 🌱 I’m currently learning **Text Generation(BERT&GPT), College Mathematics and Advance Java**
+- 🌱 I’m currently learning **Object Detection(YOLOv8 and VertexAI), College Mathematics and Advance Java**
 
 - 👯 I’m looking to collaborate on [EXERLOG mobile app](https://github.com/EXERLOG/exer_log)
 
