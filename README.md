@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Kubernetes & Airflow for Data Engineer](https://github.com/Bestine/Kubernetes-Airflow-Data-Engineer)
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Data Engineering AND Cloud Architecture**
 
 - 👯 I’m looking to collaborate on [EXERLOG mobile app](https://github.com/EXERLOG/exer_log)
 
