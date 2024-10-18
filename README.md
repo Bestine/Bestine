@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bestine" alt="bestine" /></a> </p>
 
-- 🔭 I’m currently working on [Kubernetes & Airflow for Data Engineer](https://github.com/Bestine/Kubernetes-Airflow-Data-Engineer)
+- 🔭 I’m currently working on [Finance Insights Stream](https://github.com/Bestine/FinanceInsightsStream)
 
 - 🌱 I’m currently learning **Data Engineering & Cloud Architecture**
 
