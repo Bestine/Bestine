@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bestine" alt="Bestine" /></a> </p>
 
-- 🔭 I’m currently working on [Finance Insights Stream](https://github.com/Bestine/FinanceInsightsStream)
+- 🔭 I’m currently working on [Crowdfunding with Rust](https://github.com/Bestine/crowdfund-rustchain)
 
-- 🌱 I’m currently learning **Cloud Architecture**
+- 🌱 I’m currently learning **Web3.0 and Blockchain**
 
 - 👯 I’m looking to collaborate on [EXERLOG mobile app](https://github.com/EXERLOG/exer_log)
 
