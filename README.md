@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/bestineokinda](https://www.kaggle.com/bestineokinda)
 
-- 💬 Ask me about **Data Analysis and Machine Learning**
+- 💬 Ask me about **Data Analysis, Machine Learning and AI**
 
 - 📫 How to reach me **bestineokinda@gmail.com**
 
